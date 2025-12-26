@@ -71,8 +71,8 @@ A modern, real-time music generation platform built with Next.js, Typescript,fea
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/manozcodes/manoz-musicgpt.git
-   cd manoz-musicgpt
+   git clone https://github.com/manozcodes/manoz-mgpt.git
+   cd manoz-mgpt
    ```
 
 2. **Install dependencies**
